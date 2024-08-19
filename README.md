@@ -1,7 +1,8 @@
 - 👋 Howdy, I’m @Slewf00t
 -  I’m interested in how things work
 -  I’m currently learning python and other nifty skills
--  Reach me at jtwilli13@gmail.com
+-  Ain't much here yet; we're getting there...
+-  Reach me at jt.williams.3313@gmail.com
 
 <!---
 Slewf00t/Slewf00t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
